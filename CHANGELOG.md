@@ -1,6 +1,6 @@
 # Change history for stripes-components
 
-## 4.4.0 (IN PROGRESS)
+## 5.0.0 (IN PROGRESS)
 
 * Remove `injectIntl()` fork
 * Simplify `ReduxFormField` usage
